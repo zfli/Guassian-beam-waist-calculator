@@ -1,4 +1,4 @@
-# Guass-beam-waist-calculator
+# Guassian-beam-waist-calculator
 
 This program is used to calculate the waist of a Gaussian laser beam behind the lens.
 
